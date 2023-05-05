@@ -1,6 +1,6 @@
 # Finger Test Stand (MultipleServos)
 ## Installation
-follow this link to install vscode 
+follow this link to install PlatformIO with vscode
 + https://platformio.org/install
 
 ## Flash
